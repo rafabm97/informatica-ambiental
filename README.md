@@ -44,7 +44,7 @@ Ejemplos:
 
 ![Residuos electrónicos](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/E125/production/_105373675_scale_of_e_waste_640-nc.png.webp)
 
-El problema es que estos residuos contienen materiales tóxicos que contaminan el medio ambiente y son difíciles de reciclar. :contentReference[oaicite:1]{index=1}  
+El problema es que estos residuos contienen materiales tóxicos que contaminan el medio ambiente y son difíciles de reciclar.
 
 Además, cada año se generan millones de toneladas de basura electrónica en el mundo.
 
@@ -54,14 +54,14 @@ Además, cada año se generan millones de toneladas de basura electrónica en el
 
 La obsolescencia programada consiste en fabricar productos con una duración limitada para que tengamos que comprar otros nuevos.
 
-![Obsolescencia programada](https://www.fundacionaquae.org/wp-content/uploads/2020/06/Obsolescencia-programada.jpg)
+![Obsolescencia programada](https://thumbs.dreamstime.com/b/tel%C3%A9fono-y-reloj-6313607.jpg)
 
 Por ejemplo:
 - Móviles que dejan de actualizarse  
 - Baterías que duran poco  
 - Programas que ya no funcionan en dispositivos antiguos  
 
-Esto provoca un aumento enorme de residuos electrónicos y contaminación. :contentReference[oaicite:2]{index=2}  
+Esto provoca un aumento enorme de residuos electrónicos y contaminación.
 
 ---
 
@@ -75,7 +75,7 @@ Algunas soluciones son:
 - 💻 Reparar en vez de comprar  
 - 🧠 Consumir tecnología de forma responsable  
 
-![Informática ecológica](https://www.hp.com/content/dam/sites/worldwide/tech-takes/impacto-ambiental-tecnologia.jpg)
+![Informática ecológica](https://img.innovaciondigital360.com/wp-content/uploads/2023/03/16145341/Green-Computing..jpg)
 
 La idea es hacer un uso más sostenible de la tecnología para cuidar el planeta.
 
@@ -105,12 +105,3 @@ Pequeñas acciones pueden ayudar mucho a mejorar la situación.
 - Rafael Venegas Moreno
 
 ---
-
-## 🔽 Extra (Markdown avanzado)
-
-<details>
-<summary>Haz clic para ver una curiosidad</summary>
-
-🌍 Se generan más de 50 millones de toneladas de residuos electrónicos al año en el mundo.
-
-</details>
