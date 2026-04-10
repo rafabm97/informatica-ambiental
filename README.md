@@ -26,7 +26,7 @@ La contaminación ambiental es la presencia de sustancias dañinas en el entorno
 
 En el caso de la tecnología, esta contaminación se produce principalmente durante la fabricación de dispositivos y cuando se tiran a la basura.
 
-![Contaminación tecnológica]([https://www.sostenibilidadambiental.com/wp-content/uploads/2024/01/contaminacion-residuos-electronicos.jpg](https://www.sostenibilidadambiental.com/wp-content/uploads/historia-de-la-contaminacio-por-desechos-electronicos-descubre-su-impacto-soluciones-768x432.jpg))
+![Contaminación tecnológica](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/E125/production/_105373675_scale_of_e_waste_640-nc.png.webp)
 
 Los dispositivos electrónicos contienen materiales que pueden ser muy peligrosos si no se gestionan correctamente.
 
